@@ -1,0 +1,10 @@
+
+.icon-search:before { content: '\e800'; } /* '' */
+.icon-basket:before { content: '\e801'; } /* '' */
+.icon-location:before { content: '\e802'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-gplus:before { content: '\f0d5'; } /* '' */
+.icon-angle-up:before { content: '\f106'; } /* '' */
+.icon-instagram:before { content: '\f16d'; } /* '' */
+.icon-dribbble:before { content: '\f17d'; } /* '' */
